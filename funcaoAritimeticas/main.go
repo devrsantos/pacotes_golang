@@ -1,4 +1,4 @@
-package main
+package funcaoAritimeticas
 
 import (
 	"fmt"
