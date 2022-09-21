@@ -5,7 +5,7 @@ import (
 	"math"
 )
 
-func main() {
+func Aritimeticas() {
 	a := 3
 	b := 2
 
@@ -18,7 +18,7 @@ func main() {
 	c := 3.0
 	d := 2.0
 
-	fmt.Println("Maior =>", math.Max(float64(c), float64(d)))
+	fmt.Println("Maior =>", math.Max(float64(c), float64(b)))
 	fmt.Println("Menor =>", math.Min(c, d))
 	fmt.Println("Exponenciação =>", math.Pow(c, d))
 }
