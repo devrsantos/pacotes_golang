@@ -1,3 +1,3 @@
-module github.com/devrsantos/pacotes_go/calculaMedia
+module github.com/devrsantos/pacotes_goland/calculaMedia
 
 go 1.19
